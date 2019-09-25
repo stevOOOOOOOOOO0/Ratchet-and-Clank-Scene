@@ -43,6 +43,21 @@ ModelImporter:
     100074: Torso
     100076: Upper_Torso
     100078: Upper_Waist
+    100080: L_Fingers
+    100082: L_Thumb1
+    100084: pSphere1
+    100086: pSphere12
+    100088: pSphere13
+    100090: pSphere14
+    100092: pSphere2
+    100094: pSphere3
+    100096: pSphere4
+    100098: pSphere5
+    100100: pSphere6
+    100102: pSphere7
+    100104: pSphere8
+    100106: pSphere9
+    100108: R_Fingers
     400000: Arms
     400002: Foot
     400004: Head
@@ -83,6 +98,21 @@ ModelImporter:
     400074: Torso
     400076: Upper_Torso
     400078: Upper_Waist
+    400080: L_Fingers
+    400082: L_Thumb1
+    400084: pSphere1
+    400086: pSphere12
+    400088: pSphere13
+    400090: pSphere14
+    400092: pSphere2
+    400094: pSphere3
+    400096: pSphere4
+    400098: pSphere5
+    400100: pSphere6
+    400102: pSphere7
+    400104: pSphere8
+    400106: pSphere9
+    400108: R_Fingers
     2100000: lambert1
     2300000: Foot
     2300002: Head
@@ -117,6 +147,21 @@ ModelImporter:
     2300060: Tail_Fluff
     2300062: Upper_Torso
     2300064: Upper_Waist
+    2300066: L_Fingers
+    2300068: L_Thumb1
+    2300070: pSphere1
+    2300072: pSphere12
+    2300074: pSphere13
+    2300076: pSphere14
+    2300078: pSphere2
+    2300080: pSphere3
+    2300082: pSphere4
+    2300084: pSphere5
+    2300086: pSphere6
+    2300088: pSphere7
+    2300090: pSphere8
+    2300092: pSphere9
+    2300094: R_Fingers
     3300000: Foot
     3300002: Head
     3300004: L_Ankle
@@ -150,6 +195,21 @@ ModelImporter:
     3300060: Tail_Fluff
     3300062: Upper_Torso
     3300064: Upper_Waist
+    3300066: L_Fingers
+    3300068: L_Thumb1
+    3300070: pSphere1
+    3300072: pSphere12
+    3300074: pSphere13
+    3300076: pSphere14
+    3300078: pSphere2
+    3300080: pSphere3
+    3300082: pSphere4
+    3300084: pSphere5
+    3300086: pSphere6
+    3300088: pSphere7
+    3300090: pSphere8
+    3300092: pSphere9
+    3300094: R_Fingers
     4300000: Head
     4300002: Upper_Torso
     4300004: Middle_Torso
@@ -183,6 +243,21 @@ ModelImporter:
     4300060: L_Ankle
     4300062: R_Ankle
     4300064: Foot
+    4300066: R_Fingers
+    4300068: L_Fingers
+    4300070: L_Thumb1
+    4300072: pSphere1
+    4300074: pSphere2
+    4300076: pSphere3
+    4300078: pSphere4
+    4300080: pSphere5
+    4300082: pSphere6
+    4300084: pSphere7
+    4300086: pSphere8
+    4300088: pSphere9
+    4300090: pSphere12
+    4300092: pSphere13
+    4300094: pSphere14
   externalObjects: {}
   materials:
     importMaterials: 1
