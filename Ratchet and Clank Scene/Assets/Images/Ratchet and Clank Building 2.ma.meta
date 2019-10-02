@@ -25,6 +25,9 @@ ModelImporter:
     100038: Walkpath
     100040: Doorway3
     100042: Doorway4
+    100044: Braces
+    100046: Lower_Doorway
+    100048: Lower_Doorway1
     400000: back
     400002: Building_Main
     400004: imagePlane1
@@ -47,10 +50,14 @@ ModelImporter:
     400038: Walkpath
     400040: Doorway3
     400042: Doorway4
+    400044: Braces
+    400046: Lower_Doorway
+    400048: Lower_Doorway1
     2000000: back
     2000002: left
     2000004: persp1
     2100000: lambert1
+    2100002: lambert2
     2300000: Building_Main
     2300002: pCube1
     2300004: pCylinder2
@@ -68,6 +75,9 @@ ModelImporter:
     2300028: Walkpath
     2300030: Doorway3
     2300032: Doorway4
+    2300034: Braces
+    2300036: Lower_Doorway
+    2300038: Lower_Doorway1
     3300000: Building_Main
     3300002: pCube1
     3300004: pCylinder2
@@ -85,6 +95,9 @@ ModelImporter:
     3300028: Walkpath
     3300030: Doorway3
     3300032: Doorway4
+    3300034: Braces
+    3300036: Lower_Doorway
+    3300038: Lower_Doorway1
     4300000: Building_Main
     4300002: pCylinder2
     4300004: pCube1
@@ -102,6 +115,9 @@ ModelImporter:
     4300028: Top_Out
     4300030: Doorway3
     4300032: Doorway4
+    4300034: Braces
+    4300036: Lower_Doorway
+    4300038: Lower_Doorway1
   externalObjects: {}
   materials:
     importMaterials: 1

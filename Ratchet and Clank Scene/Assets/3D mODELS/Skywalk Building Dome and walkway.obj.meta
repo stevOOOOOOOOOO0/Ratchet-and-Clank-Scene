@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 6d84671809b900f4398f656925997b24
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Building_Main
+    100002: Building_Main_Braces
+    100004: Building_Main_Braces_Brace_Front
+    100006: Building_Main_Braces_Brace_Side
+    100008: Building_Main_Braces_Coloums
+    100010: Building_Main_Building_Base
+    100012: Building_Main_Dome_Roof
+    100014: Building_Main_Doorway
+    100016: Building_Main_Lower_Doorway
+    100018: Building_Main_Lower_Doorway1
+    100020: Building_Main_Roof_Spire
+    100022: Building_Main_Top_Out
+    100024: //RootNode
+    100026: Walkpath_Building_Main
+    400000: Building_Main
+    400002: Building_Main_Braces
+    400004: Building_Main_Braces_Brace_Front
+    400006: Building_Main_Braces_Brace_Side
+    400008: Building_Main_Braces_Coloums
+    400010: Building_Main_Building_Base
+    400012: Building_Main_Dome_Roof
+    400014: Building_Main_Doorway
+    400016: Building_Main_Lower_Doorway
+    400018: Building_Main_Lower_Doorway1
+    400020: Building_Main_Roof_Spire
+    400022: Building_Main_Top_Out
+    400024: //RootNode
+    400026: Walkpath_Building_Main
+    2100000: Building_MainMat
+    2100002: Building_Main_BracesMat
+    2100004: Building_Main_Braces_Brace_FrontMat
+    2100006: Building_Main_Braces_Brace_SideMat
+    2100008: Building_Main_Braces_ColoumsMat
+    2100010: Building_Main_Building_BaseMat
+    2100012: Building_Main_Dome_RoofMat
+    2100014: Building_Main_DoorwayMat
+    2100016: Building_Main_Lower_DoorwayMat
+    2100018: Building_Main_Lower_Doorway1Mat
+    2100020: Building_Main_Roof_SpireMat
+    2100022: Building_Main_Top_OutMat
+    2100024: Walkpath_Building_MainMat
+    2300000: Building_Main
+    2300002: Building_Main_Braces
+    2300004: Building_Main_Braces_Brace_Front
+    2300006: Building_Main_Braces_Brace_Side
+    2300008: Building_Main_Braces_Coloums
+    2300010: Building_Main_Building_Base
+    2300012: Building_Main_Dome_Roof
+    2300014: Building_Main_Doorway
+    2300016: Building_Main_Lower_Doorway
+    2300018: Building_Main_Lower_Doorway1
+    2300020: Building_Main_Roof_Spire
+    2300022: Building_Main_Top_Out
+    2300024: Walkpath_Building_Main
+    3300000: Building_Main
+    3300002: Building_Main_Braces
+    3300004: Building_Main_Braces_Brace_Front
+    3300006: Building_Main_Braces_Brace_Side
+    3300008: Building_Main_Braces_Coloums
+    3300010: Building_Main_Building_Base
+    3300012: Building_Main_Dome_Roof
+    3300014: Building_Main_Doorway
+    3300016: Building_Main_Lower_Doorway
+    3300018: Building_Main_Lower_Doorway1
+    3300020: Building_Main_Roof_Spire
+    3300022: Building_Main_Top_Out
+    3300024: Walkpath_Building_Main
+    4300000: Building_Main
+    4300002: Building_Main_Braces
+    4300004: Building_Main_Braces_Brace_Front
+    4300006: Building_Main_Braces_Brace_Side
+    4300008: Building_Main_Braces_Coloums
+    4300010: Building_Main_Building_Base
+    4300012: Building_Main_Dome_Roof
+    4300014: Building_Main_Doorway
+    4300016: Building_Main_Lower_Doorway
+    4300018: Building_Main_Lower_Doorway1
+    4300020: Building_Main_Roof_Spire
+    4300022: Building_Main_Top_Out
+    4300024: Walkpath_Building_Main
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
