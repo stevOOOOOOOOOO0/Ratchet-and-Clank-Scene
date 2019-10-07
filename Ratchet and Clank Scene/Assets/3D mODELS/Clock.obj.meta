@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 1539b6528a249414c88a5c5fbf28b998
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hanger
+    100004: Hanger_Clock_Cage
+    100006: Hanger_Clock_Cage_Clock_Base
+    100008: Hanger_Clock_Cage_Clock_Base_Arms_for_Center
+    100010: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder
+    100012: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner
+    100014: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Big_Hand
+    100016: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Small_Hand
+    100018: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner
+    100020: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Big_Hand
+    100022: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Small_Hand
+    100024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Left
+    100026: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
+    100028: Hanger_Clock_Cage_Clock_Base_Small_Gear
+    100030: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    400000: //RootNode
+    400002: Hanger
+    400004: Hanger_Clock_Cage
+    400006: Hanger_Clock_Cage_Clock_Base
+    400008: Hanger_Clock_Cage_Clock_Base_Arms_for_Center
+    400010: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder
+    400012: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner
+    400014: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Big_Hand
+    400016: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Small_Hand
+    400018: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner
+    400020: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Big_Hand
+    400022: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Small_Hand
+    400024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Left
+    400026: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
+    400028: Hanger_Clock_Cage_Clock_Base_Small_Gear
+    400030: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    2100000: lambert2SG
+    2100002: initialShadingGroup
+    2300000: Hanger
+    2300002: Hanger_Clock_Cage
+    2300004: Hanger_Clock_Cage_Clock_Base
+    2300006: Hanger_Clock_Cage_Clock_Base_Arms_for_Center
+    2300008: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder
+    2300010: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner
+    2300012: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Big_Hand
+    2300014: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Small_Hand
+    2300016: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner
+    2300018: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Big_Hand
+    2300020: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Small_Hand
+    2300022: Hanger_Clock_Cage_Clock_Base_Big_Gear_Left
+    2300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
+    2300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
+    2300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    3300000: Hanger
+    3300002: Hanger_Clock_Cage
+    3300004: Hanger_Clock_Cage_Clock_Base
+    3300006: Hanger_Clock_Cage_Clock_Base_Arms_for_Center
+    3300008: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder
+    3300010: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner
+    3300012: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Big_Hand
+    3300014: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Small_Hand
+    3300016: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner
+    3300018: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Big_Hand
+    3300020: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Small_Hand
+    3300022: Hanger_Clock_Cage_Clock_Base_Big_Gear_Left
+    3300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
+    3300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
+    3300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    4300000: Hanger
+    4300002: Hanger_Clock_Cage
+    4300004: Hanger_Clock_Cage_Clock_Base
+    4300006: Hanger_Clock_Cage_Clock_Base_Arms_for_Center
+    4300008: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder
+    4300010: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner
+    4300012: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Big_Hand
+    4300014: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Back_Turner_Back_Small_Hand
+    4300016: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner
+    4300018: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Big_Hand
+    4300020: Hanger_Clock_Cage_Clock_Base_Arms_for_Center_Center_Hands_Holder_Front_Turner_Front_Small_Hand
+    4300022: Hanger_Clock_Cage_Clock_Base_Big_Gear_Left
+    4300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
+    4300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
+    4300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
