@@ -19,6 +19,22 @@ ModelImporter:
     100026: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
     100028: Hanger_Clock_Cage_Clock_Base_Small_Gear
     100030: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    100032: Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    100034: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    100036: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner
+    100038: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Big_Hand
+    100040: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Small_Hand
+    100042: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner
+    100044: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Big_Hand
+    100046: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Small_Hand
+    100048: Clock_Base_Clock_Cage_Hanger
+    100050: Clock_Base_Clock_Cage_Hanger_Big_Gear_Left
+    100052: Clock_Base_Clock_Cage_Hanger_Big_Gear_Right
+    100054: Clock_Base_Clock_Cage_Hanger_Small_Gear
+    100056: Clock_Base_Clock_Cage_Hanger_Small_Gear_Small_Gear_Center
+    100058: Clock_Cage_Hanger
+    100060: pCube1
+    100062: pCylinder1
     400000: //RootNode
     400002: Hanger
     400004: Hanger_Clock_Cage
@@ -35,6 +51,22 @@ ModelImporter:
     400026: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
     400028: Hanger_Clock_Cage_Clock_Base_Small_Gear
     400030: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    400032: Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    400034: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    400036: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner
+    400038: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Big_Hand
+    400040: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Small_Hand
+    400042: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner
+    400044: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Big_Hand
+    400046: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Small_Hand
+    400048: Clock_Base_Clock_Cage_Hanger
+    400050: Clock_Base_Clock_Cage_Hanger_Big_Gear_Left
+    400052: Clock_Base_Clock_Cage_Hanger_Big_Gear_Right
+    400054: Clock_Base_Clock_Cage_Hanger_Small_Gear
+    400056: Clock_Base_Clock_Cage_Hanger_Small_Gear_Small_Gear_Center
+    400058: Clock_Cage_Hanger
+    400060: pCube1
+    400062: pCylinder1
     2100000: lambert2SG
     2100002: initialShadingGroup
     2300000: Hanger
@@ -52,6 +84,22 @@ ModelImporter:
     2300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
     2300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
     2300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    2300030: Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    2300032: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    2300034: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner
+    2300036: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Big_Hand
+    2300038: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Small_Hand
+    2300040: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner
+    2300042: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Big_Hand
+    2300044: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Small_Hand
+    2300046: Clock_Base_Clock_Cage_Hanger
+    2300048: Clock_Base_Clock_Cage_Hanger_Big_Gear_Left
+    2300050: Clock_Base_Clock_Cage_Hanger_Big_Gear_Right
+    2300052: Clock_Base_Clock_Cage_Hanger_Small_Gear
+    2300054: Clock_Base_Clock_Cage_Hanger_Small_Gear_Small_Gear_Center
+    2300056: Clock_Cage_Hanger
+    2300058: pCube1
+    2300060: pCylinder1
     3300000: Hanger
     3300002: Hanger_Clock_Cage
     3300004: Hanger_Clock_Cage_Clock_Base
@@ -67,6 +115,22 @@ ModelImporter:
     3300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
     3300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
     3300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    3300030: Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    3300032: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    3300034: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner
+    3300036: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Big_Hand
+    3300038: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Small_Hand
+    3300040: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner
+    3300042: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Big_Hand
+    3300044: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Small_Hand
+    3300046: Clock_Base_Clock_Cage_Hanger
+    3300048: Clock_Base_Clock_Cage_Hanger_Big_Gear_Left
+    3300050: Clock_Base_Clock_Cage_Hanger_Big_Gear_Right
+    3300052: Clock_Base_Clock_Cage_Hanger_Small_Gear
+    3300054: Clock_Base_Clock_Cage_Hanger_Small_Gear_Small_Gear_Center
+    3300056: Clock_Cage_Hanger
+    3300058: pCube1
+    3300060: pCylinder1
     4300000: Hanger
     4300002: Hanger_Clock_Cage
     4300004: Hanger_Clock_Cage_Clock_Base
@@ -82,6 +146,22 @@ ModelImporter:
     4300024: Hanger_Clock_Cage_Clock_Base_Big_Gear_Right
     4300026: Hanger_Clock_Cage_Clock_Base_Small_Gear
     4300028: Hanger_Clock_Cage_Clock_Base_Small_Gear_Small_Gear_Center
+    4300030: Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    4300032: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger
+    4300034: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner
+    4300036: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Big_Hand
+    4300038: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Back_Turner_Back_Small_Hand
+    4300040: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner
+    4300042: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Big_Hand
+    4300044: Center_Hands_Holder_Arms_for_Center_Clock_Base_Clock_Cage_Hanger_Front_Turner_Front_Small_Hand
+    4300046: Clock_Base_Clock_Cage_Hanger
+    4300048: Clock_Base_Clock_Cage_Hanger_Big_Gear_Left
+    4300050: Clock_Base_Clock_Cage_Hanger_Big_Gear_Right
+    4300052: Clock_Base_Clock_Cage_Hanger_Small_Gear
+    4300054: Clock_Base_Clock_Cage_Hanger_Small_Gear_Small_Gear_Center
+    4300056: Clock_Cage_Hanger
+    4300058: pCube1
+    4300060: pCylinder1
   externalObjects: {}
   materials:
     importMaterials: 1
