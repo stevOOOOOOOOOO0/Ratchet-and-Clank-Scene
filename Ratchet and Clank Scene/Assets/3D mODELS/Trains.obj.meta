@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: c767829b9fe468945b15454f708a76ac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box_Tall_Car_Player_Train
+    100002: Player_Train
+    100004: Player_Train_Box_Tall_Car2
+    100006: Player_Train_Boxes
+    100008: Small_Gear_Train_on_Right_Car
+    100010: Train_on_Right_Car
+    100012: Train_on_Right_Car_Big_Gear_1
+    100014: Train_on_Right_Car_Big_Gear_2
+    100016: Train_on_Right_Car_Big_Gear_Front
+    100018: Train_on_Right_Car_Booster_Holders
+    100020: Train_on_Right_Car_Bottom_Box
+    100022: Train_on_Right_Car_Circle_Gear_1
+    100024: Train_on_Right_Car_Right_Train_Boosters
+    100026: Train_on_Right_Car_Slam_Bar
+    100028: Train_on_Right_Car_Small_Circle_Gear
+    100030: Train_on_Right_Car_Solid_Circle_Gear
+    100032: Train_on_Right_Car_Top_Box
+    100034: Train_on_Right_Car_Train_Gears_Bottom
+    100036: Train_on_Right_Car_Train_Shaft
+    100038: //RootNode
+    400000: Box_Tall_Car_Player_Train
+    400002: Player_Train
+    400004: Player_Train_Box_Tall_Car2
+    400006: Player_Train_Boxes
+    400008: Small_Gear_Train_on_Right_Car
+    400010: Train_on_Right_Car
+    400012: Train_on_Right_Car_Big_Gear_1
+    400014: Train_on_Right_Car_Big_Gear_2
+    400016: Train_on_Right_Car_Big_Gear_Front
+    400018: Train_on_Right_Car_Booster_Holders
+    400020: Train_on_Right_Car_Bottom_Box
+    400022: Train_on_Right_Car_Circle_Gear_1
+    400024: Train_on_Right_Car_Right_Train_Boosters
+    400026: Train_on_Right_Car_Slam_Bar
+    400028: Train_on_Right_Car_Small_Circle_Gear
+    400030: Train_on_Right_Car_Solid_Circle_Gear
+    400032: Train_on_Right_Car_Top_Box
+    400034: Train_on_Right_Car_Train_Gears_Bottom
+    400036: Train_on_Right_Car_Train_Shaft
+    400038: //RootNode
+    2100000: initialShadingGroup
+    2100002: Clock_initialShadingGroup
+    2300000: Box_Tall_Car_Player_Train
+    2300002: Player_Train
+    2300004: Player_Train_Box_Tall_Car2
+    2300006: Player_Train_Boxes
+    2300008: Small_Gear_Train_on_Right_Car
+    2300010: Train_on_Right_Car
+    2300012: Train_on_Right_Car_Big_Gear_1
+    2300014: Train_on_Right_Car_Big_Gear_2
+    2300016: Train_on_Right_Car_Big_Gear_Front
+    2300018: Train_on_Right_Car_Booster_Holders
+    2300020: Train_on_Right_Car_Bottom_Box
+    2300022: Train_on_Right_Car_Circle_Gear_1
+    2300024: Train_on_Right_Car_Right_Train_Boosters
+    2300026: Train_on_Right_Car_Slam_Bar
+    2300028: Train_on_Right_Car_Small_Circle_Gear
+    2300030: Train_on_Right_Car_Solid_Circle_Gear
+    2300032: Train_on_Right_Car_Top_Box
+    2300034: Train_on_Right_Car_Train_Gears_Bottom
+    2300036: Train_on_Right_Car_Train_Shaft
+    3300000: Box_Tall_Car_Player_Train
+    3300002: Player_Train
+    3300004: Player_Train_Box_Tall_Car2
+    3300006: Player_Train_Boxes
+    3300008: Small_Gear_Train_on_Right_Car
+    3300010: Train_on_Right_Car
+    3300012: Train_on_Right_Car_Big_Gear_1
+    3300014: Train_on_Right_Car_Big_Gear_2
+    3300016: Train_on_Right_Car_Big_Gear_Front
+    3300018: Train_on_Right_Car_Booster_Holders
+    3300020: Train_on_Right_Car_Bottom_Box
+    3300022: Train_on_Right_Car_Circle_Gear_1
+    3300024: Train_on_Right_Car_Right_Train_Boosters
+    3300026: Train_on_Right_Car_Slam_Bar
+    3300028: Train_on_Right_Car_Small_Circle_Gear
+    3300030: Train_on_Right_Car_Solid_Circle_Gear
+    3300032: Train_on_Right_Car_Top_Box
+    3300034: Train_on_Right_Car_Train_Gears_Bottom
+    3300036: Train_on_Right_Car_Train_Shaft
+    4300000: Box_Tall_Car_Player_Train
+    4300002: Player_Train
+    4300004: Player_Train_Box_Tall_Car2
+    4300006: Player_Train_Boxes
+    4300008: Small_Gear_Train_on_Right_Car
+    4300010: Train_on_Right_Car
+    4300012: Train_on_Right_Car_Big_Gear_1
+    4300014: Train_on_Right_Car_Big_Gear_2
+    4300016: Train_on_Right_Car_Big_Gear_Front
+    4300018: Train_on_Right_Car_Booster_Holders
+    4300020: Train_on_Right_Car_Bottom_Box
+    4300022: Train_on_Right_Car_Circle_Gear_1
+    4300024: Train_on_Right_Car_Right_Train_Boosters
+    4300026: Train_on_Right_Car_Slam_Bar
+    4300028: Train_on_Right_Car_Small_Circle_Gear
+    4300030: Train_on_Right_Car_Solid_Circle_Gear
+    4300032: Train_on_Right_Car_Top_Box
+    4300034: Train_on_Right_Car_Train_Gears_Bottom
+    4300036: Train_on_Right_Car_Train_Shaft
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
