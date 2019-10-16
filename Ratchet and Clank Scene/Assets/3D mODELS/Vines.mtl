@@ -1,0 +1,54 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl vineLeafyThick2LeafShaderSG
+illum 4
+Kd 0.16 0.51 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
+newmtl vineLeafyThick2ShaderSG
+illum 4
+Kd 0.62 0.53 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
+newmtl vineLeafyThick3LeafShaderSG
+illum 4
+Kd 0.16 0.51 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
+newmtl vineLeafyThick3ShaderSG
+illum 4
+Kd 0.62 0.53 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
+newmtl vineLeafyThick4LeafShaderSG
+illum 4
+Kd 0.16 0.51 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
+newmtl vineLeafyThick4ShaderSG
+illum 4
+Kd 0.62 0.53 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.14 0.14
+Ns 18.00
