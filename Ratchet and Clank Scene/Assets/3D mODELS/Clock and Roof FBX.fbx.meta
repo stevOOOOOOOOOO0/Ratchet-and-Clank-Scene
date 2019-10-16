@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 66c2ddc64ffdfc24ebec7c409ba98c26
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arms_for_Center
+    100002: Back_Big_Hand
+    100004: Back_Small_Hand
+    100006: Back_Turner
+    100008: Big_Gear_Left
+    100010: Big_Gear_Right
+    100012: Center_Hands_Holder
+    100014: //RootNode
+    100016: Clock_Base
+    100018: Clock_Cage
+    100020: Cylinders
+    100022: Front_Big_Hand
+    100024: Front_Small_Hand
+    100026: Front_Turner
+    100028: Hanger
+    100030: Roof
+    100032: Small_Gear
+    100034: Small_Gear_Center
+    400000: Arms_for_Center
+    400002: Back_Big_Hand
+    400004: Back_Small_Hand
+    400006: Back_Turner
+    400008: Big_Gear_Left
+    400010: Big_Gear_Right
+    400012: Center_Hands_Holder
+    400014: //RootNode
+    400016: Clock_Base
+    400018: Clock_Cage
+    400020: Cylinders
+    400022: Front_Big_Hand
+    400024: Front_Small_Hand
+    400026: Front_Turner
+    400028: Hanger
+    400030: Roof
+    400032: Small_Gear
+    400034: Small_Gear_Center
+    2100000: lambert2
+    2100002: lambert1
+    2300000: Arms_for_Center
+    2300002: Back_Big_Hand
+    2300004: Back_Small_Hand
+    2300006: Back_Turner
+    2300008: Big_Gear_Left
+    2300010: Big_Gear_Right
+    2300012: Center_Hands_Holder
+    2300014: Clock_Base
+    2300016: Clock_Cage
+    2300018: Cylinders
+    2300020: Front_Big_Hand
+    2300022: Front_Small_Hand
+    2300024: Front_Turner
+    2300026: Hanger
+    2300028: Roof
+    2300030: Small_Gear
+    2300032: Small_Gear_Center
+    3300000: Arms_for_Center
+    3300002: Back_Big_Hand
+    3300004: Back_Small_Hand
+    3300006: Back_Turner
+    3300008: Big_Gear_Left
+    3300010: Big_Gear_Right
+    3300012: Center_Hands_Holder
+    3300014: Clock_Base
+    3300016: Clock_Cage
+    3300018: Cylinders
+    3300020: Front_Big_Hand
+    3300022: Front_Small_Hand
+    3300024: Front_Turner
+    3300026: Hanger
+    3300028: Roof
+    3300030: Small_Gear
+    3300032: Small_Gear_Center
+    4300000: Hanger
+    4300002: Clock_Cage
+    4300004: Clock_Base
+    4300006: Arms_for_Center
+    4300008: Center_Hands_Holder
+    4300010: Back_Turner
+    4300012: Back_Big_Hand
+    4300014: Back_Small_Hand
+    4300016: Front_Turner
+    4300018: Front_Big_Hand
+    4300020: Front_Small_Hand
+    4300022: Big_Gear_Left
+    4300024: Big_Gear_Right
+    4300026: Small_Gear
+    4300028: Small_Gear_Center
+    4300030: Roof
+    4300032: Cylinders
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
