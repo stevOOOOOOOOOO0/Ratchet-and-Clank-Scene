@@ -17,6 +17,7 @@ ModelImporter:
     100022: Building_Main_Top_Out
     100024: //RootNode
     100026: Walkpath_Building_Main
+    100028: Building_Main_Walkpath
     400000: Building_Main
     400002: Building_Main_Braces
     400004: Building_Main_Braces_Brace_Front
@@ -31,6 +32,7 @@ ModelImporter:
     400022: Building_Main_Top_Out
     400024: //RootNode
     400026: Walkpath_Building_Main
+    400028: Building_Main_Walkpath
     2100000: Building_MainMat
     2100002: Building_Main_BracesMat
     2100004: Building_Main_Braces_Brace_FrontMat
@@ -44,6 +46,7 @@ ModelImporter:
     2100020: Building_Main_Roof_SpireMat
     2100022: Building_Main_Top_OutMat
     2100024: Walkpath_Building_MainMat
+    2100026: Building_Main_WalkpathMat
     2300000: Building_Main
     2300002: Building_Main_Braces
     2300004: Building_Main_Braces_Brace_Front
@@ -57,6 +60,7 @@ ModelImporter:
     2300020: Building_Main_Roof_Spire
     2300022: Building_Main_Top_Out
     2300024: Walkpath_Building_Main
+    2300026: Building_Main_Walkpath
     3300000: Building_Main
     3300002: Building_Main_Braces
     3300004: Building_Main_Braces_Brace_Front
@@ -70,6 +74,7 @@ ModelImporter:
     3300020: Building_Main_Roof_Spire
     3300022: Building_Main_Top_Out
     3300024: Walkpath_Building_Main
+    3300026: Building_Main_Walkpath
     4300000: Building_Main
     4300002: Building_Main_Braces
     4300004: Building_Main_Braces_Brace_Front
@@ -83,6 +88,7 @@ ModelImporter:
     4300020: Building_Main_Roof_Spire
     4300022: Building_Main_Top_Out
     4300024: Walkpath_Building_Main
+    4300026: Building_Main_Walkpath
   externalObjects: {}
   materials:
     importMaterials: 1

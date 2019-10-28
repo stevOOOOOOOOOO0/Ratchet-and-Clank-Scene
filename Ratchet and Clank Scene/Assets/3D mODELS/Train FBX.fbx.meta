@@ -45,6 +45,7 @@ ModelImporter:
     400038: Train_Shaft
     2100000: lambert1
     2100002: Clock_initialShadingGroup1
+    2100004: Clock_lambert2SG1
     2300000: Big_Gear_1
     2300002: Big_Gear_2
     2300004: Big_Gear_Front
