@@ -7,23 +7,34 @@ ModelImporter:
     100002: Base_Ship
     100004: Base_Ship_Cockpit
     100006: Base_Ship_Scrape_Plate
+    100008: Base_Ship_low_low
     400000: //RootNode
     400002: Base_Ship
     400004: Base_Ship_Cockpit
     400006: Base_Ship_Scrape_Plate
+    400008: Base_Ship_low_low
     2100000: Base_ShipMat
     2100002: Base_Ship_CockpitMat
     2100004: Base_Ship_Scrape_PlateMat
+    2100006: Base_Ship_low_lowMat
     2300000: Base_Ship
     2300002: Base_Ship_Cockpit
     2300004: Base_Ship_Scrape_Plate
+    2300006: Base_Ship_low_low
     3300000: Base_Ship
     3300002: Base_Ship_Cockpit
     3300004: Base_Ship_Scrape_Plate
+    3300006: Base_Ship_low_low
     4300000: Base_Ship
     4300002: Base_Ship_Cockpit
     4300004: Base_Ship_Scrape_Plate
-  externalObjects: {}
+    4300006: Base_Ship_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_Ship_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

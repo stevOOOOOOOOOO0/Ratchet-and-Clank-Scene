@@ -6,9 +6,13 @@ ModelImporter:
     100000: vineLeafyThick2Main
     100002: //RootNode
     100004: vineLeafyThick4Main
+    100006: low_vineLeafyThick4Main_low
+    100008: vineLeafyThick2Main_low_low
     400000: vineLeafyThick2Main
     400002: //RootNode
     400004: vineLeafyThick4Main
+    400006: low_vineLeafyThick4Main_low
+    400008: vineLeafyThick2Main_low_low
     2100000: vineLeafyThick2ShaderSG
     2100002: vineLeafyThick3ShaderSG
     2100004: vineLeafyThick3LeafShaderSG
@@ -17,13 +21,27 @@ ModelImporter:
     2100010: vineLeafyThick4MainMat
     2100012: vineLeafyThick4ShaderSG
     2100014: vineLeafyThick4LeafShaderSG
+    2100016: low_vineLeafyThick4Main_lowMat
+    2100018: vineLeafyThick2Main_low_lowMat
+    2100020: initialShadingGroup
     2300000: vineLeafyThick2Main
     2300002: vineLeafyThick4Main
+    2300004: low_vineLeafyThick4Main_low
+    2300006: vineLeafyThick2Main_low_low
     3300000: vineLeafyThick2Main
     3300002: vineLeafyThick4Main
+    3300004: low_vineLeafyThick4Main_low
+    3300006: vineLeafyThick2Main_low_low
     4300000: vineLeafyThick2Main
     4300002: vineLeafyThick4Main
-  externalObjects: {}
+    4300004: low_vineLeafyThick4Main_low
+    4300006: vineLeafyThick2Main_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

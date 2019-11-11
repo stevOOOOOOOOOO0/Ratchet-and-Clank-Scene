@@ -6,18 +6,40 @@ ModelImporter:
     100000: //RootNode
     100002: polySurface3_pCylinder4_polySurface4
     100004: polySurface6_polySurface3_pCylinder4
+    100006: Left_Pyramid_Dome_low_low
+    100008: polySurface524
     400000: //RootNode
     400002: polySurface3_pCylinder4_polySurface4
     400004: polySurface6_polySurface3_pCylinder4
+    400006: Left_Pyramid_Dome_low_low
+    400008: polySurface524
     2100000: polySurface3_pCylinder4_polySurface4Mat
     2100002: polySurface6_polySurface3_pCylinder4Mat
+    2100004: Left_Pyramid_Dome_low_lowMat
+    2100006: polySurface524Mat
     2300000: polySurface3_pCylinder4_polySurface4
     2300002: polySurface6_polySurface3_pCylinder4
+    2300004: Left_Pyramid_Dome_low_low
+    2300006: polySurface524
     3300000: polySurface3_pCylinder4_polySurface4
     3300002: polySurface6_polySurface3_pCylinder4
+    3300004: Left_Pyramid_Dome_low_low
+    3300006: polySurface524
     4300000: polySurface3_pCylinder4_polySurface4
     4300002: polySurface6_polySurface3_pCylinder4
-  externalObjects: {}
+    4300004: Left_Pyramid_Dome_low_low
+    4300006: polySurface524
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Pyramid_Dome_low_lowMat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface524Mat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -16,6 +16,7 @@ ModelImporter:
     100020: Building_Right_Railing
     100022: Building_Right_Window
     100024: //RootNode
+    100026: Right_Square_Building_low_low
     400000: Building
     400002: Building_Center_Door
     400004: Building_Center_Window
@@ -29,6 +30,7 @@ ModelImporter:
     400020: Building_Right_Railing
     400022: Building_Right_Window
     400024: //RootNode
+    400026: Right_Square_Building_low_low
     2100000: BuildingMat
     2100002: Building_Center_DoorMat
     2100004: Building_Center_WindowMat
@@ -41,6 +43,7 @@ ModelImporter:
     2100018: Building_Right_DoorMat
     2100020: Building_Right_RailingMat
     2100022: Building_Right_WindowMat
+    2100024: Right_Square_Building_low_lowMat
     2300000: Building
     2300002: Building_Center_Door
     2300004: Building_Center_Window
@@ -53,6 +56,7 @@ ModelImporter:
     2300018: Building_Right_Door
     2300020: Building_Right_Railing
     2300022: Building_Right_Window
+    2300024: Right_Square_Building_low_low
     3300000: Building
     3300002: Building_Center_Door
     3300004: Building_Center_Window
@@ -65,6 +69,7 @@ ModelImporter:
     3300018: Building_Right_Door
     3300020: Building_Right_Railing
     3300022: Building_Right_Window
+    3300024: Right_Square_Building_low_low
     4300000: Building
     4300002: Building_Center_Door
     4300004: Building_Center_Window
@@ -77,7 +82,13 @@ ModelImporter:
     4300018: Building_Right_Door
     4300020: Building_Right_Railing
     4300022: Building_Right_Window
-  externalObjects: {}
+    4300024: Right_Square_Building_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Square_Building_low_lowMat
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

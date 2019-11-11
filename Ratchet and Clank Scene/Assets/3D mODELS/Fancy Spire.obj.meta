@@ -6,18 +6,29 @@ ModelImporter:
     100000: //RootNode
     100002: Fancy_Spire_FancyTube
     100004: FancyTube_Spire_Bottom_Fancy_Dome
+    100006: Fancy_Spire_low_low
     400000: //RootNode
     400002: Fancy_Spire_FancyTube
     400004: FancyTube_Spire_Bottom_Fancy_Dome
+    400006: Fancy_Spire_low_low
     2100000: Fancy_Spire_FancyTubeMat
     2100002: FancyTube_Spire_Bottom_Fancy_DomeMat
+    2100004: Fancy_Spire_low_lowMat
     2300000: Fancy_Spire_FancyTube
     2300002: FancyTube_Spire_Bottom_Fancy_Dome
+    2300004: Fancy_Spire_low_low
     3300000: Fancy_Spire_FancyTube
     3300002: FancyTube_Spire_Bottom_Fancy_Dome
+    3300004: Fancy_Spire_low_low
     4300000: Fancy_Spire_FancyTube
     4300002: FancyTube_Spire_Bottom_Fancy_Dome
-  externalObjects: {}
+    4300004: Fancy_Spire_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fancy_Spire_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

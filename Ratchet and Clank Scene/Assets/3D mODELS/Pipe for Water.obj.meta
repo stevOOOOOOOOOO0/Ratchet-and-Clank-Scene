@@ -5,13 +5,24 @@ ModelImporter:
   fileIDToRecycleName:
     100000: pCylinder1
     100002: //RootNode
+    100004: Pipe_for_Water_low_low
     400000: pCylinder1
     400002: //RootNode
+    400004: Pipe_for_Water_low_low
     2100000: pCylinder1Mat
+    2100002: Pipe_for_Water_low_lowMat
     2300000: pCylinder1
+    2300002: Pipe_for_Water_low_low
     3300000: pCylinder1
+    3300002: Pipe_for_Water_low_low
     4300000: pCylinder1
-  externalObjects: {}
+    4300002: Pipe_for_Water_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_for_Water_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

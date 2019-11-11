@@ -14,6 +14,7 @@ ModelImporter:
     100016: Left_Dome_Building
     100018: Right_Building
     100020: Right_Dome_Building
+    100022: Background_Buildings_low_low
     400000: //RootNode
     400002: pPlane1
     400004: pPlane2
@@ -25,6 +26,7 @@ ModelImporter:
     400016: Left_Dome_Building
     400018: Right_Building
     400020: Right_Dome_Building
+    400022: Background_Buildings_low_low
     2100000: pPlane1Mat
     2100002: pPlane2Mat
     2100004: pPlane3Mat
@@ -35,6 +37,7 @@ ModelImporter:
     2100014: Left_Dome_BuildingMat
     2100016: Right_BuildingMat
     2100018: Right_Dome_BuildingMat
+    2100020: Background_Buildings_low_lowMat
     2300000: pPlane1
     2300002: pPlane2
     2300004: pPlane3
@@ -45,6 +48,7 @@ ModelImporter:
     2300014: Left_Dome_Building
     2300016: Right_Building
     2300018: Right_Dome_Building
+    2300020: Background_Buildings_low_low
     3300000: pPlane1
     3300002: pPlane2
     3300004: pPlane3
@@ -55,6 +59,7 @@ ModelImporter:
     3300014: Left_Dome_Building
     3300016: Right_Building
     3300018: Right_Dome_Building
+    3300020: Background_Buildings_low_low
     4300000: pPlane1
     4300002: pPlane2
     4300004: pPlane3
@@ -65,7 +70,13 @@ ModelImporter:
     4300014: Left_Dome_Building
     4300016: Right_Building
     4300018: Right_Dome_Building
-  externalObjects: {}
+    4300020: Background_Buildings_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background_Buildings_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

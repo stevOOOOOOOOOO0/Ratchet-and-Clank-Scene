@@ -8,25 +8,35 @@ ModelImporter:
     100004: Sign_Big_Panel
     100006: Sign_Small
     100008: Sign_Small_Panel
+    100010: Floating_billboard:Sign_Big1
     400000: //RootNode
     400002: Sign_Big
     400004: Sign_Big_Panel
     400006: Sign_Small
     400008: Sign_Small_Panel
+    400010: Floating_billboard:Sign_Big1
     2100000: initialShadingGroup
     2300000: Sign_Big
     2300002: Sign_Big_Panel
     2300004: Sign_Small
     2300006: Sign_Small_Panel
+    2300008: Floating_billboard:Sign_Big1
     3300000: Sign_Big
     3300002: Sign_Big_Panel
     3300004: Sign_Small
     3300006: Sign_Small_Panel
+    3300008: Floating_billboard:Sign_Big1
     4300000: Sign_Big
     4300002: Sign_Big_Panel
     4300004: Sign_Small
     4300006: Sign_Small_Panel
-  externalObjects: {}
+    4300008: Floating_billboard:Sign_Big1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

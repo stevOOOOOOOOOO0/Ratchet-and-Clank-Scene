@@ -6,18 +6,29 @@ ModelImporter:
     100000: Stand
     100002: WalkPath_Stand
     100004: //RootNode
+    100006: WalkWay_Tall_low_low
     400000: Stand
     400002: WalkPath_Stand
     400004: //RootNode
+    400006: WalkWay_Tall_low_low
     2100000: StandMat
     2100002: WalkPath_StandMat
+    2100004: WalkWay_Tall_low_lowMat
     2300000: Stand
     2300002: WalkPath_Stand
+    2300004: WalkWay_Tall_low_low
     3300000: Stand
     3300002: WalkPath_Stand
+    3300004: WalkWay_Tall_low_low
     4300000: Stand
     4300002: WalkPath_Stand
-  externalObjects: {}
+    4300004: WalkWay_Tall_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WalkWay_Tall_low_lowMat
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

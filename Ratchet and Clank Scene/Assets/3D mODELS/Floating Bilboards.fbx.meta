@@ -28,7 +28,12 @@ ModelImporter:
     4300006: Panel
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -8,28 +8,39 @@ ModelImporter:
     100004: Pod_Racer_Arms
     100006: Pod_Racer_Arms_Rocket_Boosters
     100008: Pod_Racer_Cockpit
+    100010: Pod_Racer_Ship_low_low
     400000: //RootNode
     400002: Pod_Racer
     400004: Pod_Racer_Arms
     400006: Pod_Racer_Arms_Rocket_Boosters
     400008: Pod_Racer_Cockpit
+    400010: Pod_Racer_Ship_low_low
     2100000: Pod_RacerMat
     2100002: Pod_Racer_ArmsMat
     2100004: Pod_Racer_Arms_Rocket_BoostersMat
     2100006: Pod_Racer_CockpitMat
+    2100008: Pod_Racer_Ship_low_lowMat
     2300000: Pod_Racer
     2300002: Pod_Racer_Arms
     2300004: Pod_Racer_Arms_Rocket_Boosters
     2300006: Pod_Racer_Cockpit
+    2300008: Pod_Racer_Ship_low_low
     3300000: Pod_Racer
     3300002: Pod_Racer_Arms
     3300004: Pod_Racer_Arms_Rocket_Boosters
     3300006: Pod_Racer_Cockpit
+    3300008: Pod_Racer_Ship_low_low
     4300000: Pod_Racer
     4300002: Pod_Racer_Arms
     4300004: Pod_Racer_Arms_Rocket_Boosters
     4300006: Pod_Racer_Cockpit
-  externalObjects: {}
+    4300008: Pod_Racer_Ship_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pod_Racer_Ship_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

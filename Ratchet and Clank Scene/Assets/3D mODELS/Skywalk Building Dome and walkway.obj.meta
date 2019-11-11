@@ -18,6 +18,7 @@ ModelImporter:
     100024: //RootNode
     100026: Walkpath_Building_Main
     100028: Building_Main_Walkpath
+    100030: Building_Main_low_low
     400000: Building_Main
     400002: Building_Main_Braces
     400004: Building_Main_Braces_Brace_Front
@@ -33,6 +34,7 @@ ModelImporter:
     400024: //RootNode
     400026: Walkpath_Building_Main
     400028: Building_Main_Walkpath
+    400030: Building_Main_low_low
     2100000: Building_MainMat
     2100002: Building_Main_BracesMat
     2100004: Building_Main_Braces_Brace_FrontMat
@@ -47,6 +49,7 @@ ModelImporter:
     2100022: Building_Main_Top_OutMat
     2100024: Walkpath_Building_MainMat
     2100026: Building_Main_WalkpathMat
+    2100028: Building_Main_low_lowMat
     2300000: Building_Main
     2300002: Building_Main_Braces
     2300004: Building_Main_Braces_Brace_Front
@@ -61,6 +64,7 @@ ModelImporter:
     2300022: Building_Main_Top_Out
     2300024: Walkpath_Building_Main
     2300026: Building_Main_Walkpath
+    2300028: Building_Main_low_low
     3300000: Building_Main
     3300002: Building_Main_Braces
     3300004: Building_Main_Braces_Brace_Front
@@ -75,6 +79,7 @@ ModelImporter:
     3300022: Building_Main_Top_Out
     3300024: Walkpath_Building_Main
     3300026: Building_Main_Walkpath
+    3300028: Building_Main_low_low
     4300000: Building_Main
     4300002: Building_Main_Braces
     4300004: Building_Main_Braces_Brace_Front
@@ -89,7 +94,13 @@ ModelImporter:
     4300022: Building_Main_Top_Out
     4300024: Walkpath_Building_Main
     4300026: Building_Main_Walkpath
-  externalObjects: {}
+    4300028: Building_Main_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Building_Main_low_lowMat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

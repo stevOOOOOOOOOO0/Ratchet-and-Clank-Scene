@@ -13,6 +13,7 @@ ModelImporter:
     100014: Door_Panel_Tube
     100016: Tube
     100018: Tube_Dome
+    100020: Dome_Building_with_Spire_low_low
     400000: Base
     400002: Base_Side_Piece_1
     400004: Base_Side_Piece_2
@@ -23,6 +24,7 @@ ModelImporter:
     400014: Door_Panel_Tube
     400016: Tube
     400018: Tube_Dome
+    400020: Dome_Building_with_Spire_low_low
     2100000: BaseMat
     2100002: Base_Side_Piece_1Mat
     2100004: Base_Side_Piece_2Mat
@@ -32,6 +34,7 @@ ModelImporter:
     2100012: Door_Panel_TubeMat
     2100014: TubeMat
     2100016: Tube_DomeMat
+    2100018: Dome_Building_with_Spire_low_lowMat
     2300000: Base
     2300002: Base_Side_Piece_1
     2300004: Base_Side_Piece_2
@@ -41,6 +44,7 @@ ModelImporter:
     2300012: Door_Panel_Tube
     2300014: Tube
     2300016: Tube_Dome
+    2300018: Dome_Building_with_Spire_low_low
     3300000: Base
     3300002: Base_Side_Piece_1
     3300004: Base_Side_Piece_2
@@ -50,6 +54,7 @@ ModelImporter:
     3300012: Door_Panel_Tube
     3300014: Tube
     3300016: Tube_Dome
+    3300018: Dome_Building_with_Spire_low_low
     4300000: Base
     4300002: Base_Side_Piece_1
     4300004: Base_Side_Piece_2
@@ -59,7 +64,13 @@ ModelImporter:
     4300012: Door_Panel_Tube
     4300014: Tube
     4300016: Tube_Dome
-  externalObjects: {}
+    4300018: Dome_Building_with_Spire_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dome_Building_with_Spire_low_lowMat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -11,6 +11,7 @@ ModelImporter:
     100010: Building_Base_Door_Left
     100012: Building_Base_Door_Right
     100014: //RootNode
+    100016: Square_with_Windows_and_Doors_low_low
     400000: Building_Base
     400002: Building_Base_Circle_Center
     400004: Building_Base_Circle_Left
@@ -19,6 +20,7 @@ ModelImporter:
     400010: Building_Base_Door_Left
     400012: Building_Base_Door_Right
     400014: //RootNode
+    400016: Square_with_Windows_and_Doors_low_low
     2100000: Building_BaseMat
     2100002: Building_Base_Circle_CenterMat
     2100004: Building_Base_Circle_LeftMat
@@ -26,6 +28,7 @@ ModelImporter:
     2100008: Building_Base_Door_CenterMat
     2100010: Building_Base_Door_LeftMat
     2100012: Building_Base_Door_RightMat
+    2100014: Square_with_Windows_and_Doors_low_lowMat
     2300000: Building_Base
     2300002: Building_Base_Circle_Center
     2300004: Building_Base_Circle_Left
@@ -33,6 +36,7 @@ ModelImporter:
     2300008: Building_Base_Door_Center
     2300010: Building_Base_Door_Left
     2300012: Building_Base_Door_Right
+    2300014: Square_with_Windows_and_Doors_low_low
     3300000: Building_Base
     3300002: Building_Base_Circle_Center
     3300004: Building_Base_Circle_Left
@@ -40,6 +44,7 @@ ModelImporter:
     3300008: Building_Base_Door_Center
     3300010: Building_Base_Door_Left
     3300012: Building_Base_Door_Right
+    3300014: Square_with_Windows_and_Doors_low_low
     4300000: Building_Base
     4300002: Building_Base_Circle_Center
     4300004: Building_Base_Circle_Left
@@ -47,7 +52,13 @@ ModelImporter:
     4300008: Building_Base_Door_Center
     4300010: Building_Base_Door_Left
     4300012: Building_Base_Door_Right
-  externalObjects: {}
+    4300014: Square_with_Windows_and_Doors_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Square_with_Windows_and_Doors_low_lowMat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

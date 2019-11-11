@@ -16,6 +16,7 @@ ModelImporter:
     100020: Front_Cylinder_Front_Caps
     100022: Front_Cylinder_Front_Caps1
     100024: //RootNode
+    100026: Tricylinder_Building_low_low
     400000: Front_Cylinder
     400002: Front_Cylinder_Back_L_Cylinder
     400004: Front_Cylinder_Back_L_Cylinder_Back_L_Caps
@@ -29,6 +30,7 @@ ModelImporter:
     400020: Front_Cylinder_Front_Caps
     400022: Front_Cylinder_Front_Caps1
     400024: //RootNode
+    400026: Tricylinder_Building_low_low
     2100000: Front_CylinderMat
     2100002: Front_Cylinder_Back_L_CylinderMat
     2100004: Front_Cylinder_Back_L_Cylinder_Back_L_CapsMat
@@ -41,6 +43,7 @@ ModelImporter:
     2100018: Front_Cylinder_Forwad_Lower_Cylinder_Forward_Lower_CapsMat
     2100020: Front_Cylinder_Front_CapsMat
     2100022: Front_Cylinder_Front_Caps1Mat
+    2100024: Tricylinder_Building_low_lowMat
     2300000: Front_Cylinder
     2300002: Front_Cylinder_Back_L_Cylinder
     2300004: Front_Cylinder_Back_L_Cylinder_Back_L_Caps
@@ -53,6 +56,7 @@ ModelImporter:
     2300018: Front_Cylinder_Forwad_Lower_Cylinder_Forward_Lower_Caps
     2300020: Front_Cylinder_Front_Caps
     2300022: Front_Cylinder_Front_Caps1
+    2300024: Tricylinder_Building_low_low
     3300000: Front_Cylinder
     3300002: Front_Cylinder_Back_L_Cylinder
     3300004: Front_Cylinder_Back_L_Cylinder_Back_L_Caps
@@ -65,6 +69,7 @@ ModelImporter:
     3300018: Front_Cylinder_Forwad_Lower_Cylinder_Forward_Lower_Caps
     3300020: Front_Cylinder_Front_Caps
     3300022: Front_Cylinder_Front_Caps1
+    3300024: Tricylinder_Building_low_low
     4300000: Front_Cylinder
     4300002: Front_Cylinder_Back_L_Cylinder
     4300004: Front_Cylinder_Back_L_Cylinder_Back_L_Caps
@@ -77,7 +82,13 @@ ModelImporter:
     4300018: Front_Cylinder_Forwad_Lower_Cylinder_Forward_Lower_Caps
     4300020: Front_Cylinder_Front_Caps
     4300022: Front_Cylinder_Front_Caps1
-  externalObjects: {}
+    4300024: Tricylinder_Building_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tricylinder_Building_low_lowMat
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

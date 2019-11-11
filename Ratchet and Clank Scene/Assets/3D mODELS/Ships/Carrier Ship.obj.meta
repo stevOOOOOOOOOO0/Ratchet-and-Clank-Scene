@@ -8,28 +8,39 @@ ModelImporter:
     100004: Carrier_Ship_Barrel
     100006: Carrier_Ship_Cockpit
     100008: Carrier_Ship_Scrape_Plate
+    100010: Carrier_Ship_low_low
     400000: //RootNode
     400002: Carrier_Ship
     400004: Carrier_Ship_Barrel
     400006: Carrier_Ship_Cockpit
     400008: Carrier_Ship_Scrape_Plate
+    400010: Carrier_Ship_low_low
     2100000: Carrier_ShipMat
     2100002: Carrier_Ship_BarrelMat
     2100004: Carrier_Ship_CockpitMat
     2100006: Carrier_Ship_Scrape_PlateMat
+    2100008: Carrier_Ship_low_lowMat
     2300000: Carrier_Ship
     2300002: Carrier_Ship_Barrel
     2300004: Carrier_Ship_Cockpit
     2300006: Carrier_Ship_Scrape_Plate
+    2300008: Carrier_Ship_low_low
     3300000: Carrier_Ship
     3300002: Carrier_Ship_Barrel
     3300004: Carrier_Ship_Cockpit
     3300006: Carrier_Ship_Scrape_Plate
+    3300008: Carrier_Ship_low_low
     4300000: Carrier_Ship
     4300002: Carrier_Ship_Barrel
     4300004: Carrier_Ship_Cockpit
     4300006: Carrier_Ship_Scrape_Plate
-  externalObjects: {}
+    4300008: Carrier_Ship_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrier_Ship_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

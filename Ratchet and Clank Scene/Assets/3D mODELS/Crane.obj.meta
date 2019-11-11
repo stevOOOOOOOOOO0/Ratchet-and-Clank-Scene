@@ -13,6 +13,7 @@ ModelImporter:
     100014: Body_Left_Side
     100016: Body_Right_Side
     100018: //RootNode
+    100020: Crane_low_low
     400000: Body
     400002: Body_Dome
     400004: Body_Dome_Crane
@@ -23,7 +24,9 @@ ModelImporter:
     400014: Body_Left_Side
     400016: Body_Right_Side
     400018: //RootNode
+    400020: Crane_low_low
     2100000: initialShadingGroup
+    2100002: lambert6SG
     2300000: Body
     2300002: Body_Dome
     2300004: Body_Dome_Crane
@@ -33,6 +36,7 @@ ModelImporter:
     2300012: Body_Dome_Hover_Holder
     2300014: Body_Left_Side
     2300016: Body_Right_Side
+    2300018: Crane_low_low
     3300000: Body
     3300002: Body_Dome
     3300004: Body_Dome_Crane
@@ -42,6 +46,7 @@ ModelImporter:
     3300012: Body_Dome_Hover_Holder
     3300014: Body_Left_Side
     3300016: Body_Right_Side
+    3300018: Crane_low_low
     4300000: Body
     4300002: Body_Dome
     4300004: Body_Dome_Crane
@@ -51,7 +56,13 @@ ModelImporter:
     4300012: Body_Dome_Hover_Holder
     4300014: Body_Left_Side
     4300016: Body_Right_Side
-  externalObjects: {}
+    4300018: Crane_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6SG
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

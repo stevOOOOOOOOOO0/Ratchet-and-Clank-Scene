@@ -21,6 +21,7 @@ ModelImporter:
     100030: Roof
     100032: Small_Gear
     100034: Small_Gear_Center
+    100036: Arms_for_Center_low
     400000: Arms_for_Center
     400002: Back_Big_Hand
     400004: Back_Small_Hand
@@ -39,6 +40,7 @@ ModelImporter:
     400030: Roof
     400032: Small_Gear
     400034: Small_Gear_Center
+    400036: Arms_for_Center_low
     2100000: lambert2
     2100002: lambert1
     2300000: Arms_for_Center
@@ -58,6 +60,7 @@ ModelImporter:
     2300028: Roof
     2300030: Small_Gear
     2300032: Small_Gear_Center
+    2300034: Arms_for_Center_low
     3300000: Arms_for_Center
     3300002: Back_Big_Hand
     3300004: Back_Small_Hand
@@ -75,6 +78,7 @@ ModelImporter:
     3300028: Roof
     3300030: Small_Gear
     3300032: Small_Gear_Center
+    3300034: Arms_for_Center_low
     4300000: Hanger
     4300002: Clock_Cage
     4300004: Clock_Base
@@ -92,9 +96,16 @@ ModelImporter:
     4300028: Small_Gear_Center
     4300030: Roof
     4300032: Cylinders
+    4300034: Arms_for_Center_low
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

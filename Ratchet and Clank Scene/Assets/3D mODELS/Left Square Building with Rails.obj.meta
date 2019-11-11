@@ -40,6 +40,7 @@ ModelImporter:
     100068: Building_Rall_Rail_Brace_Rail_Post8
     100070: Building_Rall_Rail_Brace_Rail_Post9
     100072: //RootNode
+    100074: Left_Square_Building_with_Rails_low_low
     400000: Building
     400002: Building_Rail_Foot_Guard
     400004: Building_Rail_Foot_Guard_Rail_Small
@@ -77,6 +78,7 @@ ModelImporter:
     400068: Building_Rall_Rail_Brace_Rail_Post8
     400070: Building_Rall_Rail_Brace_Rail_Post9
     400072: //RootNode
+    400074: Left_Square_Building_with_Rails_low_low
     2100000: BuildingMat
     2100002: Building_Rail_Foot_GuardMat
     2100004: Building_Rail_Foot_Guard_Rail_SmallMat
@@ -113,6 +115,7 @@ ModelImporter:
     2100066: Building_Rall_Rail_Brace_Rail_Post7Mat
     2100068: Building_Rall_Rail_Brace_Rail_Post8Mat
     2100070: Building_Rall_Rail_Brace_Rail_Post9Mat
+    2100072: Left_Square_Building_with_Rails_low_lowMat
     2300000: Building
     2300002: Building_Rail_Foot_Guard
     2300004: Building_Rail_Foot_Guard_Rail_Small
@@ -149,6 +152,7 @@ ModelImporter:
     2300066: Building_Rall_Rail_Brace_Rail_Post7
     2300068: Building_Rall_Rail_Brace_Rail_Post8
     2300070: Building_Rall_Rail_Brace_Rail_Post9
+    2300072: Left_Square_Building_with_Rails_low_low
     3300000: Building
     3300002: Building_Rail_Foot_Guard
     3300004: Building_Rail_Foot_Guard_Rail_Small
@@ -185,6 +189,7 @@ ModelImporter:
     3300066: Building_Rall_Rail_Brace_Rail_Post7
     3300068: Building_Rall_Rail_Brace_Rail_Post8
     3300070: Building_Rall_Rail_Brace_Rail_Post9
+    3300072: Left_Square_Building_with_Rails_low_low
     4300000: Building
     4300002: Building_Rail_Foot_Guard
     4300004: Building_Rail_Foot_Guard_Rail_Small
@@ -221,7 +226,13 @@ ModelImporter:
     4300066: Building_Rall_Rail_Brace_Rail_Post7
     4300068: Building_Rall_Rail_Brace_Rail_Post8
     4300070: Building_Rall_Rail_Brace_Rail_Post9
-  externalObjects: {}
+    4300072: Left_Square_Building_with_Rails_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Square_Building_with_Rails_low_lowMat
+    second: {fileID: 2100000, guid: 0b3c19ccd7d8f8543a619e672da87c07, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

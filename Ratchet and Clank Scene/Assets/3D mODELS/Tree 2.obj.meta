@@ -13,6 +13,7 @@ ModelImporter:
     100014: Tree2_Trunk_Center_Pupil_Leaf4
     100016: Tree2_Trunk_Center_Pupil_Leaf5
     100018: Tree2_Trunk_Center_Pupil_Leaf6
+    100020: Tree_2_low_low
     400000: //RootNode
     400002: Tree2_Trunk
     400004: Tree2_Trunk_Center_Pupil
@@ -23,6 +24,7 @@ ModelImporter:
     400014: Tree2_Trunk_Center_Pupil_Leaf4
     400016: Tree2_Trunk_Center_Pupil_Leaf5
     400018: Tree2_Trunk_Center_Pupil_Leaf6
+    400020: Tree_2_low_low
     2100000: Tree2_TrunkMat
     2100002: Tree2_Trunk_Center_PupilMat
     2100004: Tree2_Trunk_Center_Pupil_LeafMat
@@ -32,6 +34,7 @@ ModelImporter:
     2100012: Tree2_Trunk_Center_Pupil_Leaf4Mat
     2100014: Tree2_Trunk_Center_Pupil_Leaf5Mat
     2100016: Tree2_Trunk_Center_Pupil_Leaf6Mat
+    2100018: Tree_2_low_lowMat
     2300000: Tree2_Trunk
     2300002: Tree2_Trunk_Center_Pupil
     2300004: Tree2_Trunk_Center_Pupil_Leaf
@@ -41,6 +44,7 @@ ModelImporter:
     2300012: Tree2_Trunk_Center_Pupil_Leaf4
     2300014: Tree2_Trunk_Center_Pupil_Leaf5
     2300016: Tree2_Trunk_Center_Pupil_Leaf6
+    2300018: Tree_2_low_low
     3300000: Tree2_Trunk
     3300002: Tree2_Trunk_Center_Pupil
     3300004: Tree2_Trunk_Center_Pupil_Leaf
@@ -50,6 +54,7 @@ ModelImporter:
     3300012: Tree2_Trunk_Center_Pupil_Leaf4
     3300014: Tree2_Trunk_Center_Pupil_Leaf5
     3300016: Tree2_Trunk_Center_Pupil_Leaf6
+    3300018: Tree_2_low_low
     4300000: Tree2_Trunk
     4300002: Tree2_Trunk_Center_Pupil
     4300004: Tree2_Trunk_Center_Pupil_Leaf
@@ -59,6 +64,7 @@ ModelImporter:
     4300012: Tree2_Trunk_Center_Pupil_Leaf4
     4300014: Tree2_Trunk_Center_Pupil_Leaf5
     4300016: Tree2_Trunk_Center_Pupil_Leaf6
+    4300018: Tree_2_low_low
   externalObjects: {}
   materials:
     importMaterials: 1

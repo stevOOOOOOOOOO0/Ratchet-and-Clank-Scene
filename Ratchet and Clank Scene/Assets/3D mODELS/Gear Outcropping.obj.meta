@@ -10,6 +10,8 @@ ModelImporter:
     100008: Gear_2_Big_Gear
     100010: pCube1
     100012: pCube2
+    100014: Gear_Outcropping_low_low
+    100016: polySurface37
     400000: Big_Gear
     400002: Big_Gear_Gear_3
     400004: Big_Gear_Gear_4
@@ -17,31 +19,51 @@ ModelImporter:
     400008: Gear_2_Big_Gear
     400010: pCube1
     400012: pCube2
+    400014: Gear_Outcropping_low_low
+    400016: polySurface37
     2100000: Big_GearMat
     2100002: Big_Gear_Gear_3Mat
     2100004: Big_Gear_Gear_4Mat
     2100006: Gear_2_Big_GearMat
     2100008: pCube1Mat
     2100010: pCube2Mat
+    2100012: Gear_Outcropping_low_lowMat
+    2100014: polySurface37Mat
     2300000: Big_Gear
     2300002: Big_Gear_Gear_3
     2300004: Big_Gear_Gear_4
     2300006: Gear_2_Big_Gear
     2300008: pCube1
     2300010: pCube2
+    2300012: Gear_Outcropping_low_low
+    2300014: polySurface37
     3300000: Big_Gear
     3300002: Big_Gear_Gear_3
     3300004: Big_Gear_Gear_4
     3300006: Gear_2_Big_Gear
     3300008: pCube1
     3300010: pCube2
+    3300012: Gear_Outcropping_low_low
+    3300014: polySurface37
     4300000: Big_Gear
     4300002: Big_Gear_Gear_3
     4300004: Big_Gear_Gear_4
     4300006: Gear_2_Big_Gear
     4300008: pCube1
     4300010: pCube2
-  externalObjects: {}
+    4300012: Gear_Outcropping_low_low
+    4300014: polySurface37
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gear_Outcropping_low_lowMat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurface37Mat
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

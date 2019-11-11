@@ -6,18 +6,29 @@ ModelImporter:
     100000: //RootNode
     100002: SpeederBase
     100004: SpeederBase_Cockpit
+    100006: Speeder_Ship_low_low
     400000: //RootNode
     400002: SpeederBase
     400004: SpeederBase_Cockpit
+    400006: Speeder_Ship_low_low
     2100000: SpeederBaseMat
     2100002: SpeederBase_CockpitMat
+    2100004: Speeder_Ship_low_lowMat
     2300000: SpeederBase
     2300002: SpeederBase_Cockpit
+    2300004: Speeder_Ship_low_low
     3300000: SpeederBase
     3300002: SpeederBase_Cockpit
+    3300004: Speeder_Ship_low_low
     4300000: SpeederBase
     4300002: SpeederBase_Cockpit
-  externalObjects: {}
+    4300004: Speeder_Ship_low_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speeder_Ship_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
