@@ -65,7 +65,12 @@ ModelImporter:
     4300014: Tree2_Trunk_Center_Pupil_Leaf5
     4300016: Tree2_Trunk_Center_Pupil_Leaf6
     4300018: Tree_2_low_low
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_2_low_lowMat
+    second: {fileID: 2100000, guid: 3cfc6abf994500040bee23ffa11b4c8a, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
