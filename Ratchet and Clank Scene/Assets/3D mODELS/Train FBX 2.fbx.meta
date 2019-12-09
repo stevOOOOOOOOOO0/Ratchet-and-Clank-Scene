@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 666690a6bcddfe042ab85559563aef0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: low
+    100002: polySurface599
+    100004: polySurface600
+    100006: polySurface601
+    100008: polySurface602
+    100010: polySurface603
+    100012: polySurface604
+    100014: polySurface605
+    100016: polySurface606
+    100018: polySurface607
+    100020: polySurface608
+    100022: polySurface609
+    100024: polySurface610
+    100026: polySurface610 1
+    100028: polySurface611
+    100030: polySurface612
+    100032: polySurface613
+    100034: polySurface614
+    100036: polySurface615
+    100038: polySurface616
+    100040: polySurface617
+    100042: polySurface618
+    100044: polySurface619
+    100046: polySurface620
+    100048: polySurface621
+    100050: polySurface622
+    100052: polySurface623
+    100054: polySurface624
+    100056: polySurface625
+    100058: polySurface625 1
+    100060: polySurface626
+    100062: polySurface627
+    100064: polySurface628
+    100066: polySurface629
+    100068: polySurface630
+    100070: polySurface631
+    100072: polySurface632
+    100074: polySurface633
+    100076: polySurface634
+    100078: polySurface635
+    100080: polySurface636
+    100082: polySurface637
+    100084: polySurface638
+    100086: polySurface639
+    100088: polySurface640
+    100090: polySurface641
+    100092: polySurface641 1
+    100094: polySurface642
+    100096: polySurface643
+    100098: polySurface644
+    100100: polySurface645
+    100102: polySurface646
+    100104: //RootNode
+    100106: Train_on_Right_Car_low
+    100108: transform524
+    100110: transform525
+    100112: transform526
+    100114: transform527
+    100116: transform528
+    100118: transform529
+    100120: transform530
+    100122: transform531
+    100124: transform532
+    100126: transform533
+    100128: transform534
+    100130: transform535
+    100132: transform536
+    100134: transform537
+    100136: transform538
+    100138: transform539
+    100140: transform540
+    100142: transform541
+    100144: transform542
+    100146: transform543
+    100148: transform544
+    100150: transform545
+    100152: transform546
+    100154: transform547
+    100156: transform548
+    100158: transform549
+    100160: transform550
+    100162: transform551
+    100164: transform552
+    100166: transform553
+    100168: transform554
+    100170: transform555
+    100172: transform556
+    100174: transform557
+    100176: transform558
+    100178: transform559
+    100180: transform560
+    100182: transform561
+    100184: transform562
+    100186: transform563
+    100188: transform564
+    100190: transform565
+    100192: transform566
+    100194: transform567
+    100196: transform568
+    100198: transform569
+    100200: transform570
+    100202: transform571
+    100204: transform572
+    100206: transform573
+    100208: transform574
+    100210: Back_Gear
+    100212: Front_Gear
+    100214: Middle_Gear_Actual
+    100216: polySurface16
+    400000: low
+    400002: polySurface599
+    400004: polySurface600
+    400006: polySurface601
+    400008: polySurface602
+    400010: polySurface603
+    400012: polySurface604
+    400014: polySurface605
+    400016: polySurface606
+    400018: polySurface607
+    400020: polySurface608
+    400022: polySurface609
+    400024: polySurface610
+    400026: polySurface610 1
+    400028: polySurface611
+    400030: polySurface612
+    400032: polySurface613
+    400034: polySurface614
+    400036: polySurface615
+    400038: polySurface616
+    400040: polySurface617
+    400042: polySurface618
+    400044: polySurface619
+    400046: polySurface620
+    400048: polySurface621
+    400050: polySurface622
+    400052: polySurface623
+    400054: polySurface624
+    400056: polySurface625
+    400058: polySurface625 1
+    400060: polySurface626
+    400062: polySurface627
+    400064: polySurface628
+    400066: polySurface629
+    400068: polySurface630
+    400070: polySurface631
+    400072: polySurface632
+    400074: polySurface633
+    400076: polySurface634
+    400078: polySurface635
+    400080: polySurface636
+    400082: polySurface637
+    400084: polySurface638
+    400086: polySurface639
+    400088: polySurface640
+    400090: polySurface641
+    400092: polySurface641 1
+    400094: polySurface642
+    400096: polySurface643
+    400098: polySurface644
+    400100: polySurface645
+    400102: polySurface646
+    400104: //RootNode
+    400106: Train_on_Right_Car_low
+    400108: transform524
+    400110: transform525
+    400112: transform526
+    400114: transform527
+    400116: transform528
+    400118: transform529
+    400120: transform530
+    400122: transform531
+    400124: transform532
+    400126: transform533
+    400128: transform534
+    400130: transform535
+    400132: transform536
+    400134: transform537
+    400136: transform538
+    400138: transform539
+    400140: transform540
+    400142: transform541
+    400144: transform542
+    400146: transform543
+    400148: transform544
+    400150: transform545
+    400152: transform546
+    400154: transform547
+    400156: transform548
+    400158: transform549
+    400160: transform550
+    400162: transform551
+    400164: transform552
+    400166: transform553
+    400168: transform554
+    400170: transform555
+    400172: transform556
+    400174: transform557
+    400176: transform558
+    400178: transform559
+    400180: transform560
+    400182: transform561
+    400184: transform562
+    400186: transform563
+    400188: transform564
+    400190: transform565
+    400192: transform566
+    400194: transform567
+    400196: transform568
+    400198: transform569
+    400200: transform570
+    400202: transform571
+    400204: transform572
+    400206: transform573
+    400208: transform574
+    400210: Back_Gear
+    400212: Front_Gear
+    400214: Middle_Gear_Actual
+    400216: polySurface16
+    2100000: lambert1
+    2100002: Box_Faces
+    2100004: Box_Frame
+    2300000: polySurface646
+    2300002: Back_Gear
+    2300004: Front_Gear
+    2300006: Middle_Gear_Actual
+    2300008: polySurface16
+    3300000: polySurface646
+    3300002: Back_Gear
+    3300004: Front_Gear
+    3300006: Middle_Gear_Actual
+    3300008: polySurface16
+    4300000: polySurface646
+    4300002: Front_Gear
+    4300004: Back_Gear
+    4300006: Middle_Gear_Actual
+    4300008: polySurface16
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box_Faces
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box_Frame
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b7931cffa7725ef498e920a0ddc348b5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
